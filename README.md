@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Enok Dilshan</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=coding%20gifs&tbm=isch&hl=en&tbs=rimg:CQWRiVSYRQ5eYUfLDhN1lrOP8AEAsgIMCgIIABAAOgQIABAA&rlz=1C1GCEO_enLK941LK941&sa=X&ved=0CCQQuIIBahcKEwiAub_ZuLf5AhUAAAAAHQAAAAAQYg&biw=753&bih=728#imgrc=BWHrae2eDlAMxM">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enok12&label=Profile%20views&color=0e75b6&style=flat" alt="enok12" /> </p>
 
 - 🌱 I’m currently learning **Vue JS, Laravel and React**
