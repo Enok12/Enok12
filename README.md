@@ -8,10 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enok12&label=Profile%20views&color=0e75b6&style=flat" alt="enok12" /> </p>
 
 - 🌱 I’m currently learning **Vue JS, Laravel and React**
-
 - 📫 How to reach me **enokdilshan115@gmail.com**
-
-- ⚡ Fun fact **I think i am funny**
+- 💬 Ask me about anything related to technologies mentioned in my portfolio
+- ⚡ Fun fact **I am obssessed with Game Development && Ethical Hacking**
+- 🥅 2022 Goals: Learn New Technologies and expand my coding knowledge
 
 ## 👦 About me
 
