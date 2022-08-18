@@ -21,6 +21,7 @@ I am a dedicated and a self driven software developer holding a Bsc(hons) Softwa
 <p align="left">
 <a href="https://www.linkedin.com/in/enok-dilshan-50a404195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/enok-dilshan-50a404195/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/enok.dilshan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/enok.dilshan/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/enokdilshan115" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="https://www.facebook.com/enok.dilshan/" height="60" width="60" /></a>
 </p>
 
 ## 🎓 Languages and Tools
