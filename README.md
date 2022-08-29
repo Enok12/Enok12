@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Vue JS, Laravel and React**
 - 📫 How to reach me **enokdilshan115@gmail.com**
 - 💬 Ask me about anything related to technologies mentioned in my portfolio
-- ⚡ Fun fact **I am obssessed with Game Development Mobile App Development && Ethical Hacking**
+- ⚡ Fun fact **I am obssessed with Game Development, Mobile App Development && Ethical Hacking**
 - 🥅 2023 Goals: Learn New Technologies and expand my coding knowledge
 
 ## 👦 About me
