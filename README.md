@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&duration=3000&color=8A56F7FF&lines=Hi+There+%F0%9F%91%8B;I'm+Enok+Dilshan)](https://git.io/typing-svg)
-<h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Full Stack Web Developer from Sri Lanka</h3>
 
 <img  alt="Coding" align="right" width = "400"  src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" />
 
